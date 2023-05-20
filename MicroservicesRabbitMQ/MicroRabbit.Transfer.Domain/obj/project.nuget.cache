@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "I3fKDHH1zACJrviU/RXwRrOXlIaZxT0TtFIG+UOTvgqULRH+TIcTorVTsEudPLKeVxoGB6pLI478aWJB4E9BcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\odmorales\\source\\repos\\MicroservicesRabbitMQ\\MicroservicesRabbitMQ\\MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\odmorales\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\odmorales\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
